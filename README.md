@@ -6,7 +6,7 @@ Creates Virtual Browser and uses student info to login and navigate to course pa
 Parses Student Question and Instructor Response  
 *Option for peer response commented out (usually not helpful)  
 Can be integrated into AWS for automated data pulls  
-**Output:** JSON file Sample  
+**Output:** JSON file  
 ```  
 {
 	"CSE470": [
